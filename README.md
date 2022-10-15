@@ -4,6 +4,7 @@ This repository serves as a collection of book recommendations contributed by an
 
 ## Fantasy
 
+- Harry Potter, J.K. Rowling.
 - Mistborn, Brandon Sanderson.
 - [Myst: The book of Atrus](https://isbndb.com/book/9780786881888), Rand Miller, Robyn Miller, David Wingrove.
 
