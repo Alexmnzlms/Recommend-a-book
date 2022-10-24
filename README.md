@@ -24,3 +24,6 @@ This repository serves as a collection of book recommendations contributed by an
 - The Count of Montecristo, Alexandre Dumas.
 - The Three Musketeers, Alexandre Dumas.
 - Treasure Island, Robert Louis Stevenson.
+
+## Cómic
+- Batman: La broma asesina
